@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruncrypt",
+        "uuid": 25083462,
+        "checksum": "pr85c"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
